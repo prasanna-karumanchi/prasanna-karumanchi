@@ -45,8 +45,8 @@
 
 ## 🔗 Connect With Me
 
-- LinkedIn: [Prasanna Karumanchi](https://www.linkedin.com/in/prasanna-karumanchi/)
-- GitHub: [Prasanna Karumanchi](https://github.com/prasanna-karumanchi)
+- 💻 [GitHub Profile](https://github.com/prasanna-karumanchi)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/prasanna-karumanchi/)
 
 ## 🎯 Current Focus
 
