@@ -30,13 +30,14 @@
 
 **Areas of Interest:** Full Stack Development, Artificial Intelligence, Machine Learning
 
-## 🚀 Projects
+## Featured Projects
 
-- **Yoga Pose Detection System** – Computer vision-based application for detecting yoga poses using Python, OpenCV and MediaPipe.
-- **AI Mental Health Chatbot** – AI-powered conversational application built using Python and Streamlit.
-- **Educational Web Platform** – Web-based educational application developed using Python, Flask, HTML, CSS and SQL.
-- **AI Smart Waste Classifier** – AI-powered waste classification application for detecting and identifying dry and wet waste using Python, YOLOv8 and Flask.
-
+| **Project** | **Description** | **Technologies** |
+|---|---|---|
+| Yoga Pose Detection System | Computer vision-based yoga pose detection application. | Python, OpenCV, MediaPipe |
+| Educational Web Platform | Web-based educational platform with database integration. | Python, Flask, HTML, CSS, SQL |
+| AI Smart Waste Classifier | AI-powered waste classification application for detecting dry and wet waste categories. | Python, YOLOv8, Flask |
+| AI Mental Health Chatbot | AI-powered chatbot for mental health conversations and crisis detection. | Python, TinyLlama, Streamlit, LoRA |
 ## 🏆 Achievements & Leadership
 
 - 🥇 **1st Prize – R&D Showcase, Edunet Foundation** – Presented the Yoga Pose Detection System project and secured first place.
