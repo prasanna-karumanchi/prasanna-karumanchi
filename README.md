@@ -34,10 +34,11 @@
 
 | **Project** | **Description** | **Technologies** |
 |---|---|---|
-| Yoga Pose Detection System | Computer vision-based yoga pose detection application. | Python, OpenCV, MediaPipe |
-| Educational Web Platform | Web-based educational platform with database integration. | Python, Flask, HTML, CSS, SQL |
-| AI Smart Waste Classifier | AI-powered waste classification application for detecting dry and wet waste categories. | Python, YOLOv8, Flask |
-| AI Mental Health Chatbot | AI-powered chatbot for mental health conversations and crisis detection. | Python, TinyLlama, Streamlit, LoRA |
+| [Yoga Pose Detection System](https://github.com/prasanna-karumanchi/Yoga_Pose_Detection) | Computer vision-based yoga pose detection application. | Python, OpenCV, MediaPipe |
+| [Educational Web Platform](https://github.com/prasanna-karumanchi/Educational-Platform) | Web-based educational platform with database integration. | Python, Flask, HTML, CSS, SQL |
+| [AI Smart Waste Classifier](YOUR_WASTE_REPOSITORY_LINK) | AI-powered waste classification application for detecting dry and wet waste categories. | Python, YOLOv8, Flask |
+| [AI Mental Health Chatbot](YOUR_CHATBOT_REPOSITORY_LINK) | AI-powered chatbot for mental health conversations and crisis detection. | Python, TinyLlama, Streamlit, LoRA |
+
 ## 🏆 Achievements & Leadership
 
 - 🥇 **1st Prize – R&D Showcase, Edunet Foundation** – Presented the Yoga Pose Detection System project and secured first place.
